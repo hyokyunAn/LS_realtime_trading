@@ -7,6 +7,6 @@
 
 
 # Run
-
+```bash
    run split_pub_ls.bat
    run split_sub_ls.bat
