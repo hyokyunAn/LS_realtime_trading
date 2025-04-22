@@ -28,7 +28,7 @@ from collections import defaultdict
 
 # @@@@@@@@@@@@@@@@@@@ 공용 변수들 선언 시작 @@@@@@@@@@@@@@@@@@@
 from LS_config import USER_ID, APP_KEY, APP_SECRET_KEY, REST_URL, WEBSOCKET_URL
-from split_realtime_trading_config import *
+from trading_mechanism import *
 
 
 if __name__ == "__main__":
